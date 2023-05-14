@@ -21,7 +21,7 @@
     "create-jd-app": "dist/index.js"
   },
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^5.2.0",
     "fs-extra": "^10.1.0",
     "inquirer": "^8.2.4",
     "ora": "^6.3.0"
